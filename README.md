@@ -4,10 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebrucihan&label=Profile%20views&color=0e75b6&style=flat" alt="ebrucihan" /> </p>
 
 - 🔭 I’m currently working on: [Patika.dev Full Stack Developer Bootcamp](https://www.patika.dev)
-- 🌱 I’m currently learning: **React, Spring Boot, Microservices, SOLID Principles**
+- 🌱 I’m currently learning: **React, Spring Boot, Microservices, SOLID Principles, Hibernate**
 - 👯 I’m looking to collaborate on: **Open source projects**
-- 📫 How to reach me: **ebrchnnn123@gmail.com**
-- ⚡ Fun fact: **I have experience in social media management and start-up projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
