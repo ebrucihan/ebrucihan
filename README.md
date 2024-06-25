@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'am Ebru Cihan</h1>
+<h1 align="center">Hi 👋, I am Ebru </h1>
 <h3 align="center">I'm in the process of changing my career path, transitioning from sales to the field of software development. With comprehensive training in full-stack development, I've entered the software world. Additionally, I have experience in digital content management, social media strategies, and technical project collaboration. I aim to leverage these skills to succeed in the software industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebrucihan&label=Profile%20views&color=0e75b6&style=flat" alt="ebrucihan" /> </p>
