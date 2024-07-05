@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:ebrchnnn123@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="email" height="30" width="40" /></a>
+  <a href="mailto:ebrchnnn123@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/ebru-cihan-b0aaa2201/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebru-cihan" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/ebrchnnn123" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ebrchnnn123" height="30" width="40" /></a>
 </p>
