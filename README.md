@@ -58,6 +58,9 @@
     <strong>Gazi University</strong> - Economics (September 2018 - August 2022)
   </li>
   <li>
-    <strong>Patika.dev</strong> - Full Stack Developer Bootcamp (April 2024 - Present)
+   <strong>Patika.dev Full Stack Developer Bootcamp</strong> (April 2024 - Present)
+    <p>
+      During the Patika.dev Full Stack Web Development Bootcamp, I gained in-depth knowledge of Java, Spring Framework, Hibernate, Java SpringBoot, and SQL. In the backend section, I completed projects such as "Adventure Game," "Minesweeper," "PatikaStore," "Car Rental," and "Tourism Agency," using Java Swing. These projects strengthened my backend skills and provided me with experience in creating comprehensive and user-friendly software.
+    </p>
   </li>
 </ul>
