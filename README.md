@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebrucihan&label=Profile%20views&color=0e75b6&style=flat" alt="ebrucihan" /> </p>
 
-- 🔭 I’m currently working on: [Patika.dev Full Stack Developer Bootcamp](https://www.patika.dev)
-- 🌱 I’m currently learning: **React, Spring Boot, Microservices, SOLID Principles, Hibernate**
-- 👯 I’m looking to collaborate on: **Open source projects**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:ebrchnnn123@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email" height="30" width="40" /></a>
@@ -30,38 +26,5 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">My Experiences:</h3>
-<ul>
-  <li>
-    <strong>Pepteam Bilişim A.Ş. - Sales and Business Development</strong> (October 2022 - January 2023)
-    <ul>
-      <li>Content Writing and WordPress Management</li>
-      <li>Website Blogging</li>
-      <li>Advertising Campaigns Management</li>
-      <li>Mail and Call Tracking Management</li>
-      <li>Start-up and Mobile Application Experience</li>
-    </ul>
-  </li>
-  <li>
-    <strong>Ad-Modern - Social Media Manager</strong> (February 2023 - December 2023)
-    <ul>
-      <li>Developed and executed social media strategies for 10+ brands</li>
-      <li>Managed monthly social media planning and reporting</li>
-      <li>Created content and new concepts for digital platforms</li>
-      <li>Collaborated on projects with EU initiatives and government ministries</li>
-    </ul>
-  </li>
-</ul>
 
-<h3 align="left">Education:</h3>
-<ul>
-  <li>
-    <strong>Gazi University</strong> - Economics (September 2018 - August 2022)
-  </li>
-  <li>
-   <strong>Patika.dev Full Stack Developer Bootcamp</strong> (April 2024 - Present)
-    <p>
-      During the Patika.dev Full Stack Web Development Bootcamp, I gained in-depth knowledge of Java, Spring Framework, Hibernate, Java SpringBoot, and SQL. In the backend section, I completed projects such as "Adventure Game," "Minesweeper," "PatikaStore," "Car Rental," and "Tourism Agency," using Java Swing. These projects strengthened my backend skills and provided me with experience in creating comprehensive and user-friendly software.
-    </p>
-  </li>
-</ul>
+
